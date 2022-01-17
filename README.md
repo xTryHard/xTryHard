@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Rafael Almonte
 #### Software and IT Project Development
-![Software and IT Project Development](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cityofredding.org%2Fdepartments%2Finformation-technology&psig=AOvVaw1umy1l6MKHVpdSiNT5iasR&ust=1642471315013000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjWv9PYt_UCFQAAAAAdAAAAABAU)
+![Software and IT Project Development]
 
 I am a ​Software Development and Telematics Engineer, passionate about technology and its dependencies. Driven by responsibility, work ethic, teamwork, proactive learning, and efficient delivery of solutions.
 
