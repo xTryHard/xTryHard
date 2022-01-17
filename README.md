@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Rafael Almonte
 #### Software and IT Project Development
-![Software and IT Project Development]
+
 
 I am a ​Software Development and Telematics Engineer, passionate about technology and its dependencies. Driven by responsibility, work ethic, teamwork, proactive learning, and efficient delivery of solutions.
 
