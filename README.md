@@ -10,7 +10,7 @@ Always trying to enjoy the journey while taking my skills of all kinds to the ed
 
 Skills: Java / JavaScript / Nodejs / PostgreSQL / C++ / Python
 
-- 🔭 I’m currently working on an electronic flight simulation cockpit based, on aircraft Cessna 172R, that provides a real life and real time experience; accompanied with a smart management system that offers insights based on user’s flight history. C++, Python, Nodejs, PostgreSQL, React. 
+- 🔭 I’m currently working on an electronic flight simulation cockpit based on aircraft Cessna 172R, that provides a real life and real time experience; accompanied with a smart management system that offers insights based on user’s flight history. C++, Python, Nodejs, PostgreSQL, React. 
 - 🌱 I’m currently learning Nodejs in deep, TypeScript, React and Nextjs. I am looking forward to continue with AWS, Docker and Kubernetes. 
 - 👯 I’m looking to collaborate on Open Source projects related to Data Science, IoT, RTC, AI, Cloud Computing, among other topics 
 
