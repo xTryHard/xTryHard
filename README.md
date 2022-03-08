@@ -16,7 +16,7 @@ Skills: Java / JavaScript / Nodejs / PostgreSQL / C++ / Python
 - 👯 I’m looking to collaborate on Open Source projects related to Data Science, IoT, RTC, AI, Cloud Computing, among other topics 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xTryHard)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jrac//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xTryHard)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jrac/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xTryHard)](https://github.com/ryo-ma/github-profile-trophy)
 
