@@ -30,8 +30,8 @@ I’m passionate about continuing my learning journey in **SWE**, **AI/ML/DS**, 
 
 ## 🌱 Interests & Hobbies  
 When I’m not coding, you’ll find me:  
-- ✈️ Traveling the world and exploring new cultures  
+- ✈️ Traveling and exploring new cultures  
 - 🏀 Cheering on NBA, MLB, NFL, European soccer, & hitting the padel court  
 - 🍳 Cooking up new recipes in the kitchen  
-- 📚 Reading technical books and learning every day  
+- 📚 Reading
 - 🎹 Playing piano (or learning how to play)
